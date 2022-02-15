@@ -1,3 +1,4 @@
 # hello-world
 This is my first repository
-I am the Chief Engineer of this project. All development teams report to me.
+# About me
+I am Benjamin and this is my first commit.
